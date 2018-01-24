@@ -39,8 +39,12 @@ Transactions per second or TPS is the most common ratio used](https://www.neotys
 [If you have an average visit length of 5 minutes, a single user could create 60 min / 5 min = 12 visits per hour. 
 To get to the target number of 1000 visits/visitors per hour, you need 1000 visits / 12 visits per user = 84 concurrent user.](https://sqa.stackexchange.com/questions/1508/calculate-peak-concurrent-users-on-a-website)
 
+![Medição de horários de pico](https://blog.bufferapp.com/wp-content/uploads/2015/06/Chartbeat-social-trfafic-web-traffic-research.png)
+
 ---
 
 <strong>6. Sensibilidade à carga / degradação:</strong>
+
+![Demonstração de degradação com aumento da quantidade de usuários](https://i-technet.sec.s-msft.com/dynimg/IC98962.gif)
 
 ---
