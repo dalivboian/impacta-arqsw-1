@@ -45,6 +45,6 @@ To get to the target number of 1000 visits/visitors per hour, you need 1000 visi
 
 <strong>6. Sensibilidade à carga / degradação:</strong>
 
-![Demonstração de degradação com aumento da quantidade de usuários](https://i-technet.sec.s-msft.com/dynimg/IC98962.gif)
+![Demonstração de degradação com aumento da quantidade de usuários](https://flood.io/images/blog/wordpress_stress_pass.png)
 
 ---
